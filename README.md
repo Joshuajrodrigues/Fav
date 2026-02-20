@@ -8,19 +8,23 @@ Fav lets me save a few of my favourite directory paths for easy access aka ✨ t
 
 ## What ?
 Let's say you're working on a project in some deep, annoying path like ~/Documents/web/projects/client-site/assets/img.
+
 1. Tag it
 
 Once you are in that folder, you just type:
 fav --add site
+
 2. Move away
 
 Go do something else, like editing your nvim config:
 cd ~/.config/nvim
+
 3. Teleport back
 
 Now, instead of typing that whole long path again, you just hit:
 f site
 And you're back in the assets/img folder.
+
 4. Forgot the name?
 
 If you can't remember if you named the tag "site" or "web", just type:

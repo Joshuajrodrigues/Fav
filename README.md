@@ -32,7 +32,7 @@ I'm glad. I didnt know. So i built this because I want and can and I think it's 
 
 ## Technicalities
 **fav.sh** handles a text file databse. 
-The shell funtion **f handles** the actual moving
+The shell function **f handles** the actual moving
 
 ## Setup
 1. Put fav.sh somewhere and make it executable: chmod +x fav.sh
